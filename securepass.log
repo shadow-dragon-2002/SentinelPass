@@ -1,0 +1,10 @@
+2025-07-20 13:03:20,066 - __main__ - INFO - SentinelPass application starting...
+2025-07-20 13:03:20,081 - core.database - INFO - DatabaseManager initialized with database: C:\Users\NIGHTRAVEN\Documents\BCA_Assignments\Sem_6\Blackbox\data\securepass.db
+2025-07-20 13:03:20,082 - auth.master_auth - INFO - MasterAuthManager initialized
+2025-07-20 13:03:20,082 - __main__ - INFO - Application initialized successfully
+2025-07-20 13:03:20,082 - __main__ - INFO - Running first-time setup wizard
+2025-07-20 13:03:29,934 - ui.setup_wizard - INFO - Setup wizard cancelled
+2025-07-20 13:03:29,940 - __main__ - INFO - Setup cancelled by user
+2025-07-20 13:03:29,945 - __main__ - INFO - Cleaning up application resources
+2025-07-20 13:03:29,945 - core.database - INFO - Database connection closed
+2025-07-20 13:03:29,945 - __main__ - INFO - SentinelPass application shutdown complete
